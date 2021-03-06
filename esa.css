@@ -1,3 +1,44 @@
+/* text decorators */
+
 .pink {
   background: linear-gradient(transparent 0%, #ffd6ff 0%);
+}
+.yellow {
+  background: linear-gradient(transparent 0%, #ffffa8 0%);
+}
+.green {
+  background: linear-gradient(transparent 0%, #ccffcc 0%);
+}
+.blue {
+  background: linear-gradient(transparent 0%, #ccffff 0%);
+}
+.red {
+  background: linear-gradient(transparent 0%, #ffcccc 0%);
+}
+.purple-line {
+  background: linear-gradient(transparent 0%, #ead6ff 0%);
+}
+.orange-line {
+  background: linear-gradient(transparent 0%, #ffddbc 0%);
+}
+.pink-line {
+  background: linear-gradient(transparent 80%, #ffd6ff 80%);
+}
+.yellow-line {
+  background: linear-gradient(transparent 80%, #ffffa8 80%);
+}
+.green-line {
+  background: linear-gradient(transparent 80%, #ccffcc 80%);
+}
+.blue-line {
+  background: linear-gradient(transparent 80%, #ccffff 80%);
+}
+.red-line {
+  background: linear-gradient(transparent 80%, #ffcccc 80%);
+}
+.purple-line {
+  background: linear-gradient(transparent 80%, #ead6ff 80%);
+}
+.orange-line {
+  background: linear-gradient(transparent 80%, #ffddbc 80%);
 }
